@@ -9,15 +9,4 @@
     "password": "Free To Copy",
     "records": [
     ]
-        {
-            "user": "trick",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0&ab_channel=Trick",
-            "percent": 100
-        },
-        {
-            "user": "wpopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc&ab_channel=wPopoff",
-            "percent": 100
-        }
-    ]
-}
+  
